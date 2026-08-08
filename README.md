@@ -5,7 +5,7 @@ Incident Management application built with **Vue 3 (Composition API)**, **TypeSc
 ---
 
 ## 🌐 Live Demo
-[Click here to view the Live Demo](https://https://headon-incident-app.netlify.app/)
+[Click here to view the Live Demo](https://headon-incident-app.netlify.app/)
 
 ### Prerequisites
 
